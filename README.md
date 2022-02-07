@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ck-ksst
 - 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Bayesian learning.
+- 🌱 I’m currently Machine learning.
